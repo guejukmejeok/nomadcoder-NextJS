@@ -1,1 +1,0 @@
-# nomadcoder-NextJS
